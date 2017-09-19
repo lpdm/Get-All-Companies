@@ -1,0 +1,17 @@
+<html>
+<body>
+
+<form action="/action_page.php">
+  Host:<br>
+  <input type="text" name="host" value="">
+  <br>
+  Last name:<br>
+  <input type="text" name="parentcompanyid" value="">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+
+
+</body>
+</html>
